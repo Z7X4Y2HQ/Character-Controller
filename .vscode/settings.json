@@ -51,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "Character Controller.sln"
+    "dotnet.defaultSolution": "Character-Controller.sln"
 }
